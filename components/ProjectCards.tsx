@@ -3,7 +3,7 @@ const ProjectCards = () => {
     {
       title: 'DealFlow',
       description: 'A platform for managing deal flows in finance.',
-      link: 'https://example.com/dealflow',
+      link: 'https://dealflow.milaniya.com/',
     },
     {
       title: 'Kola',
